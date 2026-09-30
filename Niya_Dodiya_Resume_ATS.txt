@@ -1,0 +1,46 @@
+NIYA DODIYA
+Location: Ahmedabad, Gujarat, India
+Email: niyadodiya81@gmail.com
+GitHub: github.com/Niya-Dodiya
+LinkedIn: https://www.linkedin.com/in/niya-dodiya-6936b6309/
+
+PROFESSIONAL SUMMARY
+M.Sc. (CA & IT) student with a strong foundation in full-stack development, Python, and machine learning. Passionate about building robust software applications and eager to leverage academic knowledge in real-world IT projects. Highly adaptable and committed to continuous learning to drive value as a software development intern.
+
+TECHNICAL SKILLS
+Programming: Python, Java, C/C++, JavaScript
+Frontend: HTML, CSS, JavaScript, React
+Backend: Node.js, Express.js, PHP, Laravel
+Database: MySQL, MongoDB
+Machine Learning: NumPy, Pandas, Scikit-learn, TensorFlow
+Tools: Git, GitHub, VS Code, Postman
+
+PROJECTS
+
+Medical Insurance Cost Prediction | Python, Machine Learning, Flask/Streamlit
+* Developed a predictive machine learning model to estimate health insurance premiums based on user demographics.
+* Implemented a comprehensive data processing pipeline using Pandas and trained regression models with Scikit-learn to optimize prediction accuracy.
+* Designed a responsive web interface to securely accept user inputs and display real-time cost predictions.
+
+AMC Management Website | Laravel, PHP, MySQL
+* Built an Annual Maintenance Contract (AMC) management platform to oversee service agreements and track equipment history.
+* Engineered secure backend logic using Laravel PHP to handle data transactions efficiently and maintain database integrity in MySQL.
+* Delivered a streamlined administrative dashboard for monitoring maintenance schedules and generating status reports.
+
+MERN Application | MongoDB, Express.js, React, Node.js
+* Constructed a full-stack web application employing a non-relational database architecture to manage user data effectively.
+* Handled server-side operations and RESTful API endpoints using Express.js and Node.js to ensure reliable data flow.
+* Integrated a dynamic React frontend to consume APIs and provide a seamless, interactive user experience.
+
+EDUCATION
+K S School of Business Management, Gujarat University, Ahmedabad
+Master of Science in Computer Applications and Information Technology (M.Sc. CA & IT)
+
+[Insert Previous Academic Qualifications Here]
+
+EXPERIENCE
+Open to Software / IT Internship Opportunities
+
+CERTIFICATES
+* Python Django Internship - Coursera
+* Understanding the EU Artificial Intelligence Act - Alison
